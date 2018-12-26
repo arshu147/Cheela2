@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2018-12-26T10:24:17Z" finished-at="2018-12-26T10:24:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63" started-at="2018-12-26T10:24:17Z" finished-at="2018-12-26T10:24:17Z">
+      <class name="kirkiri.kirkirione">
+        <test-method status="PASS" signature="teesst()[pri:0, instance:kirkiri.kirkirione@47d384ee]" name="teesst" duration-ms="16" started-at="2018-12-26T10:24:17Z" finished-at="2018-12-26T10:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teesst -->
+      </class> <!-- kirkiri.kirkirione -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
